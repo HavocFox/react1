@@ -1,0 +1,18 @@
+.contact-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .conhead-text {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .contact-text {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #666;
+  }
+  

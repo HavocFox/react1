@@ -1,0 +1,18 @@
+.header-container {
+    background-image: url('https://cdn.wallpapersafari.com/81/89/uwxN7v.jpg'); /* Replace with your image URL */
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header-text {
+    color: white;
+    font-size: 48px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for better readability */
+    padding: 10px 140px;
+    border-radius: 10px;
+  }
+  
